@@ -15,6 +15,6 @@ This Recipe Generator (Chef Claude) App is built using React and powered by Mist
 
 ## 🎯 How It Works
 - Enter ingredients or a dish name
-- Click the "Generate Recipe" button
+- Click the "Get a Recipe" button
 - The AI returns a markdown-formatted recipe
 - react-markdown converts and displays the recipe in styled React elements
